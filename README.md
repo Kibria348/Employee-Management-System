@@ -32,9 +32,9 @@ Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on 
 
 ## Login Info:
 ### Admin Panel:
-ID: admin
+ID: 
 
-Pass: admin
+Pass: 
 
 ### User Panel:
 ID: User's Email Address
